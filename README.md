@@ -37,5 +37,5 @@
 
     
 <div>
-    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e5425c3a2e9a22f36b5815bd7d39345e.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">Seja bem-vindo ao meu perfil!</a>
+    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e5425c3a2e9a22f36b5815bd7d39345e.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"><h2>Seja bem-vindo ao meu perfil!</h2></a>
 </div>
