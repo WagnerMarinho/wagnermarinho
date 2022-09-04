@@ -34,3 +34,8 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+    
+<div>
+    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e5425c3a2e9a22f36b5815bd7d39345e.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+</div>
