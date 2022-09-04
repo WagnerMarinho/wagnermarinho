@@ -1,9 +1,8 @@
 ### Olá! Me chamo Wagner Marinho.
 
+HTML | CSS | Javascript | C/C++
 
-- 🔭 Trabalho com front-end
-- 🌱 Estudando React
-- 😄 ele/dele
+📚📕 - React, Node, Vue.
 
 <div align="center">
   <a href="https://github.com/wagnermarinho">
@@ -32,10 +31,10 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blan
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+    </br>
 </div>
 
     
 <div>
-    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e5425c3a2e9a22f36b5815bd7d39345e.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"><h2>Seja bem-vindo ao meu perfil!</h2></a>
+    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e5425c3a2e9a22f36b5815bd7d39345e.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"><h2>Obrigado por visitar o meu perfil!</h2></a>
 </div>
