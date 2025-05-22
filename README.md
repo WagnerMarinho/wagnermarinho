@@ -1,6 +1,6 @@
 ### Olá! Me chamo Wagner Marinho.
 
-HTML | CSS | Javascript | C/C++
+HTML | CSS | Javascript | C
 
 📚📕 - React, Node, Vue.
 
